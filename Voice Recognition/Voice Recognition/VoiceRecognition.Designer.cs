@@ -1,6 +1,6 @@
 ﻿namespace Voice_Recognition
 {
-    partial class Form1
+    partial class VoiceRecognition
     {
         /// <summary>
         /// Required designer variable.

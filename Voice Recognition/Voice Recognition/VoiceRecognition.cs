@@ -11,11 +11,11 @@ using System.Speech.Recognition;
 
 namespace Voice_Recognition
 {
-    public partial class Form1 : Form
+    public partial class VoiceRecognition : Form
     {
         SpeechRecognitionEngine recEngine = new SpeechRecognitionEngine();
 
-        public Form1()
+        public VoiceRecognition()
         {
             InitializeComponent();
         }
